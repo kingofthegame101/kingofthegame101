@@ -123,7 +123,5 @@ cutting manual work and keeping the pipeline clean.
 
 ---
 
-## 📫 Let's connect
-![LinkedIn](https://www.linkedin.com/in/quyen-tang-6b195a342/)
 
 
