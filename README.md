@@ -40,6 +40,6 @@ cutting manual work and keeping the pipeline clean.
 ---
 
 ## 📫 Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/quyen-tang-6b195a342/))
 
 
