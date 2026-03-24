@@ -34,8 +34,6 @@ cutting manual work and keeping the pipeline clean.
 - Logs all claims with amounts, descriptions, and payment type into a shared spreadsheet
 - Eliminated 100% of manual finance processing for the committee
 
----
-
 ### 💰 Personal Budget Tracker *(Google Apps Script)*
 > Scans incoming DBS bank alert emails via Gmail API, extracts transaction amounts, and logs them into a personal Google Sheet automatically.
 - Calculates weekly spending vs. budget in real time
