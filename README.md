@@ -28,6 +28,19 @@ leads and tracks all activity in a Google Sheet —
 cutting manual work and keeping the pipeline clean.  
 *Built with Google Apps Script + Sheets API.*
 
+### 🏛️ Club Finance Automation *(Google Apps Script)*
+> Built for the Vietnamese Club at SIM — team members submit a Google Form and the system automatically:
+- Generates a formatted bill document (Google Docs)
+- Logs all claims with amounts, descriptions, and payment type into a shared spreadsheet
+- Eliminated 100% of manual finance processing for the committee
+
+---
+
+### 💰 Personal Budget Tracker *(Google Apps Script)*
+> Scans incoming DBS bank alert emails via Gmail API, extracts transaction amounts, and logs them into a personal Google Sheet automatically.
+- Calculates weekly spending vs. budget in real time
+- Sends a daily email report with spending breakdown and budget remaining
+- Color-coded budget status (green / yellow / red)
 ---
 
 ## 📚 Background
